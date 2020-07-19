@@ -1,0 +1,71 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#header {
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    margin-top: 0px;
+    padding: 10px;
+    background-color: #bd5cfd;
+
+}
+
+h1 {
+    vertical-align: middle;
+    color: white;
+    font-weight: bold;
+}
+
+.row {
+    margin: 10px 20px;
+
+}
+
+#resultado {
+    margin: 30px 20px 10px 0px;
+
+}
+
+.persona-row {
+    margin: 10px 0px;
+    padding: 10px;
+    width: 100%;
+    float: left;
+    background-color: #5ccffd;
+
+}
+
+.persona-row img {
+    float: left;
+    margin-right: 20px;
+    width: 10%;
+}
+
+.persona-info {
+    float: left;
+}
+
+.persona-row>button {
+    float: right;
+}
+
+#cabecera {
+    background-color: #bd5cfd;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+button {
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
